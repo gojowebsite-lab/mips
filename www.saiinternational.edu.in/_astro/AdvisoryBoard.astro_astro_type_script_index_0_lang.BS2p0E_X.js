@@ -1,0 +1,1 @@
+import{i as o}from"./embla.BIV6bAmc.js";window.addEventListener("DOMContentLoaded",()=>{const e=document.getElementById("advisory-board-slider");e&&o(e,{align:"start",dragFree:!1,slidesToScroll:"2"})});

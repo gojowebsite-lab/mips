@@ -1,0 +1,1 @@
+import{s as o,f as C,h as E,E as p}from"./analytics.BxzJNloo.js";o("apply-now-desktop",C);o("apply-now-mobile",C);o("explore-btn",()=>E(p.MENU_EXPLORE_BTN_CLICKED));o("pay-fee",()=>E(p.MENU_PAY_FEES_CLICKED));o("school-tour",()=>E(p.SCHOOL_TOUR_CLICKED));
