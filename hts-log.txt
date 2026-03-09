@@ -1,0 +1,172 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Mar 2026 16:47:42 at https://www.saiinternational.edu.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.saiinternational.edu.in/ -O1 "C:\My Web Sites\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:39	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/founder/late-dr.-bijaya-kumar-sahoo: Permission denied
+16:51:57	Error: 	"Error when decompressing" (-1) at link https://www.saiinternational.edu.in/about/team/dr.-silpi-sahoo (from https://www.saiinternational.edu.in/about)
+16:51:57	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/team/dr.-silpi-sahoo: Permission denied
+16:52:00	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/team/shri-prakash-sahoo: Permission denied
+16:52:01	Error: 	"Not Found" (404) at link https://www.saiinternational.edu.in/${member.bgImg} (from https://www.saiinternational.edu.in/about)
+16:52:01	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/dr.-c.b.-satpathy: Permission denied
+16:52:02	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/dr.-prasant-mohapatra: Permission denied
+16:52:03	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/ca-p.r.-ramesh: Permission denied
+16:52:04	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/dr.-damodar-acharya: Permission denied
+16:52:06	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/shri-rakesh-sethi: Permission denied
+16:52:08	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/advisory/shri-ronesh-puri: Permission denied
+16:52:18	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/curriculum/laboratories: Permission denied
+16:52:24	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/amenities/hostel: Permission denied
+16:52:25	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/amenities/cafeteria: Permission denied
+16:52:27	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/amenities/auditoriums: Permission denied
+16:52:30	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/amenities/infirmary: Permission denied
+16:52:35	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/amenities/sustainable-development: Permission denied
+16:52:36	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/sai-seva/initiatives: Permission denied
+16:52:37	Error: 	"Not Found" (404) at link https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/founderâs-memorial-series (from https://www.saiinternational.edu.in/about/learning-and-beyond)
+16:52:39	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/saimun: Permission denied
+16:52:40	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/sai-olympics: Permission denied
+16:52:41	Error: 	Unable to save file C:/My Web Sites/1/www.saiinternational.edu.in/about/affiliations/cbse: Permission denied
+16:52:47	Error: 	"Not Found" (404) at link https://www.saiinternational.edu.in/about/[object Object] (from https://www.saiinternational.edu.in/about/ethos)
+16:52:47	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/founder/late-dr.-bijaya-kumar-sahoo/
+16:52:47	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/founder/late-dr.-bijaya-kumar-sahoo/ and https://www.saiinternational.edu.in/about/founder/late-dr.-bijaya-kumar-sahoo/
+16:52:47	Warning: 	File has moved from https://www.saiinternational.edu.in//about/founder/late-dr.-bijaya-kumar-sahoo/ to /about/founder/late-dr.-bijaya-kumar-sahoo/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/team/shri-nilakantha-panigrahi/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/team/shri-nilakantha-panigrahi/ and https://www.saiinternational.edu.in/about/team/shri-nilakantha-panigrahi/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/team/shri-nilakantha-panigrahi/ to /about/team/shri-nilakantha-panigrahi/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/team/shri-prakash-sahoo/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/team/shri-prakash-sahoo/ and https://www.saiinternational.edu.in/about/team/shri-prakash-sahoo/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/team/shri-prakash-sahoo/ to /about/team/shri-prakash-sahoo/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/team/smt-rashmi-pandey/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/team/smt-rashmi-pandey/ and https://www.saiinternational.edu.in/about/team/smt-rashmi-pandey/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/team/smt-rashmi-pandey/ to /about/team/smt-rashmi-pandey/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/dr.-c.b.-satpathy/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/dr.-c.b.-satpathy/ and https://www.saiinternational.edu.in/about/advisory/dr.-c.b.-satpathy/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/dr.-c.b.-satpathy/ to /about/advisory/dr.-c.b.-satpathy/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/dr.-prasant-mohapatra/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/dr.-prasant-mohapatra/ and https://www.saiinternational.edu.in/about/advisory/dr.-prasant-mohapatra/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/dr.-prasant-mohapatra/ to /about/advisory/dr.-prasant-mohapatra/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/ca-p.r.-ramesh/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/ca-p.r.-ramesh/ and https://www.saiinternational.edu.in/about/advisory/ca-p.r.-ramesh/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/ca-p.r.-ramesh/ to /about/advisory/ca-p.r.-ramesh/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/dr.-damodar-acharya/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/dr.-damodar-acharya/ and https://www.saiinternational.edu.in/about/advisory/dr.-damodar-acharya/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/dr.-damodar-acharya/ to /about/advisory/dr.-damodar-acharya/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/dr.-p.c.-jain/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/dr.-p.c.-jain/ and https://www.saiinternational.edu.in/about/advisory/dr.-p.c.-jain/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/dr.-p.c.-jain/ to /about/advisory/dr.-p.c.-jain/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/shri-amitabh-jhingan/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/shri-amitabh-jhingan/ and https://www.saiinternational.edu.in/about/advisory/shri-amitabh-jhingan/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/shri-amitabh-jhingan/ to /about/advisory/shri-amitabh-jhingan/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/shri-rakesh-sethi/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/shri-rakesh-sethi/ and https://www.saiinternational.edu.in/about/advisory/shri-rakesh-sethi/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/shri-rakesh-sethi/ to /about/advisory/shri-rakesh-sethi/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/ms.-ameeta-mulla-wattal/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/ms.-ameeta-mulla-wattal/ and https://www.saiinternational.edu.in/about/advisory/ms.-ameeta-mulla-wattal/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/ms.-ameeta-mulla-wattal/ to /about/advisory/ms.-ameeta-mulla-wattal/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/advisory/shri-ronesh-puri/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/advisory/shri-ronesh-puri/ and https://www.saiinternational.edu.in/about/advisory/shri-ronesh-puri/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/advisory/shri-ronesh-puri/ to /about/advisory/shri-ronesh-puri/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/laboratories/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/laboratories/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/laboratories/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/laboratories/ to /about/learning-and-beyond/curriculum/laboratories/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/learning-resource-centers/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/learning-resource-centers/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/learning-resource-centers/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/learning-resource-centers/ to /about/learning-and-beyond/curriculum/learning-resource-centers/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/sports/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/sports/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/sports/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/sports/ to /about/learning-and-beyond/curriculum/sports/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/performing-arts/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/performing-arts/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/performing-arts/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/performing-arts/ to /about/learning-and-beyond/curriculum/performing-arts/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/fine-arts/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/fine-arts/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/fine-arts/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/fine-arts/ to /about/learning-and-beyond/curriculum/fine-arts/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/steam/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/steam/ and https://www.saiinternational.edu.in/about/learning-and-beyond/curriculum/steam/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/curriculum/steam/ to /about/learning-and-beyond/curriculum/steam/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/hostel/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/hostel/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/hostel/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/hostel/ to /about/learning-and-beyond/amenities/hostel/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/cafeteria/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/cafeteria/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/cafeteria/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/cafeteria/ to /about/learning-and-beyond/amenities/cafeteria/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/auditoriums/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/auditoriums/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/auditoriums/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/auditoriums/ to /about/learning-and-beyond/amenities/auditoriums/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/infirmary/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/infirmary/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/infirmary/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/infirmary/ to /about/learning-and-beyond/amenities/infirmary/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/sustainable-development/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/sustainable-development/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/sustainable-development/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/sustainable-development/ to /about/learning-and-beyond/amenities/sustainable-development/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/steam/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/steam/ and https://www.saiinternational.edu.in/about/learning-and-beyond/amenities/steam/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/amenities/steam/ to /about/learning-and-beyond/amenities/steam/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/dr.-b-k-sahoo-100-libraries/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/dr.-b-k-sahoo-100-libraries/ and https://www.saiinternational.edu.in/about/learning-and-beyond/sai-seva/dr.-b-k-sahoo-100-libraries/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/dr.-b-k-sahoo-100-libraries/ to /about/learning-and-beyond/sai-seva/dr.-b-k-sahoo-100-libraries/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/initiatives/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/initiatives/ and https://www.saiinternational.edu.in/about/learning-and-beyond/sai-seva/initiatives/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/initiatives/ to /about/learning-and-beyond/sai-seva/initiatives/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/projects/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/projects/ and https://www.saiinternational.edu.in/about/learning-and-beyond/sai-seva/projects/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/projects/ to /about/learning-and-beyond/sai-seva/projects/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/recognitions/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/recognitions/ and https://www.saiinternational.edu.in/about/learning-and-beyond/sai-seva/recognitions/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/sai-seva/recognitions/ to /about/learning-and-beyond/sai-seva/recognitions/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saimun/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saimun/ and https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/saimun/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saimun/ to /about/learning-and-beyond/flagship-events/saimun/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-unwind/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-unwind/ and https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/sai-unwind/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-unwind/ to /about/learning-and-beyond/flagship-events/sai-unwind/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saited/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saited/ and https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/saited/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/saited/ to /about/learning-and-beyond/flagship-events/saited/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-confluence/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-confluence/ and https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/sai-confluence/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-confluence/ to /about/learning-and-beyond/flagship-events/sai-confluence/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-olympics/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-olympics/ and https://www.saiinternational.edu.in/about/learning-and-beyond/flagship-events/sai-olympics/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/learning-and-beyond/flagship-events/sai-olympics/ to /about/learning-and-beyond/flagship-events/sai-olympics/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/affiliations/cbse/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/affiliations/cbse/ and https://www.saiinternational.edu.in/about/affiliations/cbse/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/affiliations/cbse/ to /about/affiliations/cbse/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//about/affiliations/igcse/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//about/affiliations/igcse/ and https://www.saiinternational.edu.in/about/affiliations/igcse/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//about/affiliations/igcse/ to /about/affiliations/igcse/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-programs/1/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-programs/1/ and https://www.saiinternational.edu.in/global-connect/global-programs/1/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-programs/1/ to /global-connect/global-programs/1/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-programs/2/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-programs/2/ and https://www.saiinternational.edu.in/global-connect/global-programs/2/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-programs/2/ to /global-connect/global-programs/2/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-programs/3/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-programs/3/ and https://www.saiinternational.edu.in/global-connect/global-programs/3/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-programs/3/ to /global-connect/global-programs/3/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/1/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/1/ and https://www.saiinternational.edu.in/global-connect/global-partners/1/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/1/ to /global-connect/global-partners/1/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/2/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/2/ and https://www.saiinternational.edu.in/global-connect/global-partners/2/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/2/ to /global-connect/global-partners/2/
+16:52:50	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/3/
+16:52:50	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/3/ and https://www.saiinternational.edu.in/global-connect/global-partners/3/
+16:52:50	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/3/ to /global-connect/global-partners/3/
+16:52:51	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/4/
+16:52:51	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/4/ and https://www.saiinternational.edu.in/global-connect/global-partners/4/
+16:52:51	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/4/ to /global-connect/global-partners/4/
+16:52:51	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/5/
+16:52:51	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/5/ and https://www.saiinternational.edu.in/global-connect/global-partners/5/
+16:52:51	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/5/ to /global-connect/global-partners/5/
+16:52:51	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/6/
+16:52:51	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/6/ and https://www.saiinternational.edu.in/global-connect/global-partners/6/
+16:52:51	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/6/ to /global-connect/global-partners/6/
+16:52:51	Warning: 	Permanent Redirect for https://www.saiinternational.edu.in//global-connect/global-partners/7/
+16:52:51	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.saiinternational.edu.in//global-connect/global-partners/7/ and https://www.saiinternational.edu.in/global-connect/global-partners/7/
+16:52:51	Warning: 	File has moved from https://www.saiinternational.edu.in//global-connect/global-partners/7/ to /global-connect/global-partners/7/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 676 links scanned, 625 files written (81079343 bytes overall) [72510780 bytes received at 234662 bytes/sec], 11439365 bytes transferred using HTTP compression in 120 files, ratio 20%, 1.5 requests per connection
+(23 errors, 138 warnings, 0 messages)
