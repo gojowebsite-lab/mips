@@ -1,1 +1,0 @@
-import{a as m,E as o,c as s,d as a}from"./analytics.BxzJNloo.js";const r=document.querySelector("form#admission-form");r&&(m(r,o.ADMISSION_FORM_STARTED),s("admission-form",()=>{a("admission-form",o.ADMISSION_FORM_VIEWED)}));
